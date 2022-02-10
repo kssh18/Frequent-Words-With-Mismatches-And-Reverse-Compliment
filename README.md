@@ -9,7 +9,6 @@ Output: All k-mers Pattern maximizing the sum Countd(Text, Pattern) + Countd(Tex
 
 
 
-For example:
 
   Sample Input: 
   
