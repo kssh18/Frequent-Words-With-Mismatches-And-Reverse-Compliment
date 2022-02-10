@@ -23,5 +23,5 @@ Output: All k-mers Pattern maximizing the sum Countd(Text, Pattern) + Countd(Tex
   
                  ATGT ACAT
                  
-   The DnaA boxes obtained from the input DNA sequence, “ATGT” is the most frequent 4-mer with 1 mismatch, along with its reverse complement “ACAT” is obtained as the output.
+   The DnaA boxes obtained from the input DNA sequence with most frequent 4-mer with 1 mismatch, along with its reverse complement “ATGT ACAT” is obtained as the output.
               
