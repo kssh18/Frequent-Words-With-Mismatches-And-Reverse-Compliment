@@ -1,9 +1,9 @@
 # Frequent-Words-With-Mismatches-And-Reverse-Compliment
 Biologically, DNA A cannot only bind to  perfect DNA A boxes but also bind to their slight  variations like Mismatches and reverse complement. Our  approach will find those mismatches along with its reverse compliment.
 
-# Input: A DNA string Text as well as integers k and d.
+Input: A DNA string Text as well as integers k and d.
 
-# Output: All k-mers Pattern maximizing the sum Countd(Text, Pattern) + Countd(Text, Pattern) over all possible k-mers.
+Output: All k-mers Pattern maximizing the sum Countd(Text, Pattern) + Countd(Text, Pattern) over all possible k-mers.
 
 For example:
   Sample Input: 
